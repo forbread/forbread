@@ -1,0 +1,99 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"enhance": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"nodeModules": true,
+		"autoAudits": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.8.1",
+	"appid": "wxe40c919897afca2d",
+	"projectname": "%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90",
+	"miniprogramRoot": "miniprogram/",
+	"cloudfunctionRoot": "cloudfunctions/",
+	"cloudfunctionTemplateRoot": "",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"scripts": {},
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": -1,
+					"name": "pages/request/index",
+					"pathName": "pages/request/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/user_detail/index",
+					"pathName": "pages/user_detail/index",
+					"query": "uid=345570022",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/play_record/index",
+					"pathName": "pages/play_record/index",
+					"query": "uid=345570022",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/play_list_detail/index",
+					"pathName": "pages/play_list_detail/index",
+					"query": "id=2757345419",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/song_detail/index",
+					"pathName": "pages/song_detail/index",
+					"query": "ids=504835560",
+					"scene": null
+				}
+			]
+		}
+	}
+}
